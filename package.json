@@ -1,0 +1,12 @@
+{
+  "name": "repository-yodeller",
+  "version": "1.0.0",
+  "scripts": {
+    "prepare-messages": "deno run --allow-read --allow-write=messages scripts/prepare-messages.ts",
+    "send-messages": "ANGHAMMARAD_TOPIC=$(aws ssm get-parameter --region eu-west-1 --name /account/services/anghammarad.topic.arn --query Parameter.Value) deno run --allow-read --allow-env --allow-net scripts/send-messages.ts"
+  },
+  "dependencies": {
+    "@guardian/anghammarad": "1.8.1",
+    "aws-sdk": "2.1497.0"
+  }
+}

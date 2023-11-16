@@ -1,0 +1,36 @@
+guardian/editorial-viewer,digital-cms-admins
+guardian/workflow-frontend,digital-cms-admins
+guardian/atom-workshop,digital-cms-admins
+guardian/discussion-modtools,digital-cms-admins
+guardian/login.gutools,digital-cms-admins
+guardian/editorial-tools-production-monitoring,digital-cms-admins
+guardian/presence-indicator,digital-cms-admins
+guardian/flexible-restorer,digital-cms-admins
+guardian/grid,digital-cms-admins
+guardian/story-packages,digital-cms-admins
+guardian/rights-feeder,digital-cms-admins
+guardian/tagmanager,digital-cms-admins
+guardian/workflow,digital-cms-admins
+guardian/flexible-feeds,digital-cms-admins
+guardian/permissions,digital-cms-admins
+guardian/content-api,Content Platforms
+guardian/riff-raff,Developer Experience
+guardian/amigo,Developer Experience
+guardian/prism,Developer Experience
+guardian/presence-indicator,Digital CMS
+guardian/frontend,Dotcom Platform
+guardian/grid,Grid admins
+guardian/identity-admin-api,Identity
+guardian/discussion-modtools,Identity
+guardian/identity,Identity
+guardian/discussion-avatar,Identity
+guardian/identity-admin,Identity
+guardian/membership-frontend,Identity
+guardian/discussion-api,Identity
+guardian/membership-frontend,prout
+guardian/workflow,prout
+guardian/members-data-api,Reader Revenue
+guardian/membership-frontend,Reader Revenue
+guardian/tagmanager,Tag Admins
+guardian/baton,Transparency & Consent
+
